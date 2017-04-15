@@ -14,7 +14,7 @@ namespace GetRepo3
         /// <param name="args"></param>
         static void Main(string[] args)
         {
-            Console.WriteLine ("test1");
+            Console.WriteLine ("test for branch A");
             Console.ReadLine();
         }
     }
